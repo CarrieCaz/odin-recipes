@@ -9,4 +9,23 @@
     text-align: center;
     
   }
+
+  .odin {
+    display: block;
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 225px;
+    color: brown; 
+
+  }
+  .one {
+    
+    margin-top: auto;
+    margin-left: 575px;
+    background-color: gold; width: 120px; height: auto;
+    
+    display: block
+    
+
+  }
   
